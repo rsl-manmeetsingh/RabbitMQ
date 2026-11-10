@@ -1,0 +1,5 @@
+com/rsl/rabbitmq/OrderConsumer.class
+com/rsl/rabbitmq/OrderApplication.class
+com/rsl/rabbitmq/Order.class
+com/rsl/rabbitmq/OrderApiServer.class
+com/rsl/rabbitmq/OrderConsumer$Service.class
